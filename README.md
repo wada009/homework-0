@@ -1,2 +1,2 @@
-# homework-0
+# murders
 My first GitHub repo
